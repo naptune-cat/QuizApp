@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogBox</string>
+    <string name="alert_dialog_box">Alert Dialog box</string>
+    <string name="which_platform_does_kotlin_primarily_target">Which platform does Kotlin primarily target?</string>
+</resources>
